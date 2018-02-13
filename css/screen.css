@@ -201,6 +201,10 @@ html {
 label {
   display: block;
 }
+@media screen and (min-width: 480px)
+{
+	
+}
 
 /* ===== LAYOUT STYLES ====== */
 
