@@ -203,7 +203,10 @@ label {
 }
 @media screen and (min-width: 480px)
 {
-	
+	body
+	{
+		background-color: #78767F;
+	}
 }
 
 /* ===== LAYOUT STYLES ====== */
