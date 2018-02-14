@@ -246,6 +246,10 @@ label {
 	{
 		padding-left: 20px;
 	}
+	#email
+	{
+		width: 99%;
+	}
 	#input-submit
 	{
 	margin-top: 15px;	
