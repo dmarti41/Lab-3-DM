@@ -221,6 +221,10 @@ label {
 		margin-bottom: 15px;
 		padding-left: 20px;
 	}
+	ol
+	{
+		padding-left: 20px;
+	}
 	#input-submit
 	{
 	margin-top: 15px;	
