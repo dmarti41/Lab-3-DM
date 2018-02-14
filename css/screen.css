@@ -197,6 +197,12 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
+body
+{
+	background-color: #78767F;
+	color: #F2ECFF;
+	font-family: 'Mukta Mahee', 'Oswald', 'Playfair Display';
+}
 
 label {
   display: block;
