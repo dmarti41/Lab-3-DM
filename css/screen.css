@@ -209,6 +209,11 @@ label {
 		color: #F2ECFF;
 		font-family: 'Mukta Mahee', 'Oswald', 'Playfair Display';
 	}
+	h1
+	{
+		margin: 15px 50px 75px;
+		
+	}
 }
 
 /* ===== LAYOUT STYLES ====== */
