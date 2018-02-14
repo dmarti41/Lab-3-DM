@@ -202,6 +202,8 @@ body
 	background-color: #78767F;
 	color: #F2ECFF;
 	font-family: 'Mukta Mahee', 'Oswald', 'Playfair Display';
+	padding-left: 60px;
+	padding-right: 40px;
 }
 
 label {
