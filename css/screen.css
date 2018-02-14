@@ -216,6 +216,10 @@ label {
 		margin-left: 50px;
 		font-size: 1.16em;
 	}
+	p
+	{
+		margin-bottom: 15px;
+	}
 }
 
 /* ===== LAYOUT STYLES ====== */
